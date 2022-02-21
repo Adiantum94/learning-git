@@ -8,3 +8,4 @@ print(liczby_podzielne)
 cubes = [number ** 3 for number in liczby_podzielne]
 
 print(cubes)
+print("Zmiana,zmaina,zmiana")
