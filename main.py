@@ -11,3 +11,5 @@ print(cubes)
 print("Zmiana,zmaina,zmiana")
 print("Nowy commit")
 print("i jeszcze jeden")
+
+print ("i nowa zmiana")
